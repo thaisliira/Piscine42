@@ -1,2 +1,2 @@
-# Piscine42
+# Piscine 42
 Here you can find some solutions to exercises that we had to do in the Piscine program.
